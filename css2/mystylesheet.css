@@ -1,0 +1,40 @@
+
+body {
+    background-color: red;
+}
+
+
+header {
+    width: auto;
+    height: 150px;
+}
+
+
+Title {
+    font-size: 45px;
+}
+  
+.h1 {
+    font-size: 30px;
+    }
+
+
+p {
+
+    Font-size: 25px;
+
+/* Media Queries*/
+
+
+/* On screens that are 600px or less, set the background color to pink */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: pink;
+  }
+}
+    
+/* On screens that are 992px or less, set the background color to light green */
+@media screen and (max-width: 992px) {
+  body {
+    background-color: light green;
+  }}}
