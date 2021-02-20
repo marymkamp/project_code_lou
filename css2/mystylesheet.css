@@ -6,11 +6,11 @@ body {
 
 header {
     width: auto;
-    height: 150px;
+    height: 50px;
 }
 
 
-Title {
+title {
     font-size: 45px;
 }
   
@@ -18,10 +18,14 @@ Title {
     font-size: 30px;
     }
 
+figcaption{
+
+       Font-size: 26px;
+}
 
 p {
 
-    Font-size: 25px;
+    Font-size: 35px;
 
 /* Media Queries*/
 
